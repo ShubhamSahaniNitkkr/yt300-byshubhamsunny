@@ -373,7 +373,6 @@ Here’s the complete roadmap of **300 projects**, all coming soon step by step 
 
 ---
 
-✨
 ## 🛠️ Advanced & Final 50 Projects  
 
 251. 🖼️ Image gallery with filters *(Coming Soon)*  
