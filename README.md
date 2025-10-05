@@ -50,7 +50,7 @@ Here’s the complete roadmap of **300 projects**, all coming soon step by step 
 
 ## 🔑 Authentication & Security
 
-1. 🔐 Google Sign-In / Sign-Up _(Coming Soon)_
+1. 🔐 Google Sign-In / Sign-Up (Youtube Video Link : https://youtu.be/q0xsOPT71ec )
 2. 🔵 Facebook Login integration _(Coming Soon)_
 3. 🐙 GitHub OAuth integration _(Coming Soon)_
 4. 🐦 Twitter/X Login _(Coming Soon)_
