@@ -12,30 +12,6 @@ Each topic comes with:
 
 ---
 
-## 🌟 What You’ll Find Here
-
-From **basic web dev utilities** to **real-world integrations** and even **AI + blockchain demos**, everything is covered:
-
-- Authentication 🔑
-- File Handling 📂
-- APIs 🌐
-- AI & ML 🤖
-- Payments 💳
-- PWA & Web APIs 📱
-- UI/UX Components 🎨
-- Security & Best Practices 🔒
-- DevOps & Productivity ⚡
-- Fun Projects & Mini Apps 🎮
-
----
-
-## 🎯 Goal
-
-👉 To make **frontend developer super simple** for beginners and busy devs.  
-👉 You don’t need to read 10 blogs – just **1 repo, 1 video, 1 blog per topic**.
-
----
-
 ⚡ Whether you’re a **student, fresher, junior dev or working dev**, this repo helps you quickly learn and build real-world features with JavaScript.
 
 📌 **Subscribe on YouTube (YT300 by Shubham Sunny)** and ⭐ the repo if you find it useful!
@@ -534,6 +510,29 @@ Here’s the complete roadmap of **300 projects**, all coming soon step by step 
 400. 📈 Monitoring & alerting with Prometheus + Grafana *(Coming Soon)*  
 
 ---
+
+## 🌟 What You’ll Find Here
+
+From **basic web dev utilities** to **real-world integrations** and even **AI + blockchain demos**, everything is covered:
+
+- Authentication 🔑
+- File Handling 📂
+- APIs 🌐
+- AI & ML 🤖
+- Payments 💳
+- PWA & Web APIs 📱
+- UI/UX Components 🎨
+- Security & Best Practices 🔒
+- DevOps & Productivity ⚡
+- Fun Projects & Mini Apps 🎮
+
+---
+
+## 🎯 Goal
+
+👉 To make **frontend developer super simple** for beginners and busy devs.  
+👉 You don’t need to read 10 blogs – just **1 repo, 1 video, 1 blog per topic**.
+
 
 
 ## 🚀 Final Note
