@@ -3,22 +3,16 @@
 🚀 **Simplest JavaScript Solutions – Step by Step, Free, and Beginner-Friendly**
 
 This repo is a **collection of 300+ everyday development solutions in JavaScript**, explained in the **simplest possible way**.  
-Each topic comes with:
-
-- ✅ **Step-by-step guide** (easy to follow)
-- 🎥 **Short YouTube video** (visual demo)
-- 📝 **Mini blog/notes** (for quick reference)
-- 💯 **Completely free** – (free to use)
 
 ---
 
 ⚡ Whether you’re a **student, fresher, junior dev or working dev**, this repo helps you quickly learn and build real-world features with JavaScript.
 
-📌 **Subscribe on YouTube (YT300 by Shubham Sunny)** and ⭐ the repo if you find it useful!
+📌 **Subscribe on YouTube EasyJS ( https://www.youtube.com/channel/UCwBFhsgYzgCigoZEghiSvPw )** and ⭐ the repo if you find it useful!
 
 ---
 
-# 📅 Upcoming 300 Projects (Coming Soon 🚧)
+# 📅 Javascript 300 Projects 
 
 Here’s the complete roadmap of **300 projects**, all coming soon step by step 👇
 
